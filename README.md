@@ -1,79 +1,87 @@
-�
-Hi there, I'm Kshitij Varshikar 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Kshitij%20Varshikar&fontSize=40&fontColor=ffffff)
 
+![Profile Views](https://komarev.com/ghpvc/?username=kshitijvarshikar&color=blue)
 
-�
-Java Backend Developer · Full Stack Engineer · DSA Enthusiast 
+---
 
+# 👋 Hi, I'm Kshitij Varshikar
 
-�
-￼ ￼ ￼ 
+🚀 Java Backend Developer | 🌐 Full Stack Engineer | 🧠 DSA Enthusiast  
 
+---
 
-🚀 About Me
-🎓 B.Tech in Artificial Intelligence — CGPA: 8.62 / 10
-💻 Passionate about Java Backend Development and building scalable systems
-🧠 Strong in Data Structures & Algorithms (100+ problems solved in Java)
-🌐 Full Stack Developer comfortable with both Frontend & Backend
-☁️ Learning Cloud (AWS) and System Design fundamentals
-🥇 Top 5% Performer — AI/ML Internship, Skill India MSME
-🛠️ Tech Stack
-Category
-Technologies
-Languages
-Java · Python · JavaScript · SQL
-Backend
-Core Java · REST APIs · JDBC · OOP · Collections
-Frontend
-HTML · CSS · JavaScript · DOM · Fetch API · Async/Await
-Database
-MySQL
-Tools
-Git · GitHub · VS Code · Linux CLI
-Cloud & ML
-AWS (EC2, S3, IAM) · Pandas · NumPy
-🚀 Featured Projects
-💱 GlobalX Currency Converter
-Real-time currency converter powered by a live REST API
-🌍 Supports 150+ currencies with live exchange rates
-⚡ Responsive UI built with async JavaScript & Fetch API
-🚀 Deployed on GitHub Pages
-🧠 DSA Forge – Java
-A structured DSA practice repository in Java
-✅ 100+ problems solved across arrays, trees, graphs & more
-🏗️ Custom implementations of Linked List, BST, HashMap
-🎯 Focus on time & space complexity optimization
-🌱 AgroSmart IoT System
-Smart irrigation system using Arduino & soil sensors
-🤖 Automatic pump control based on real-time moisture levels
-📉 Reduced manual irrigation effort by ~80%
-🔧 Built with Arduino, sensors & embedded C logic
-📊 GitHub Stats
-�
-￼ ￼ 
+## ⚡ About Me
 
+🎓 B.Tech Artificial Intelligence (CGPA: 8.62)  
+💻 Java Backend & Full Stack Developer  
+🧠 Strong in Data Structures & Algorithms  
+🌐 Building real-world web applications  
+☁️ Exploring Cloud & System Design  
+🔥 Focused on scalable and clean software development  
 
-�
-￼ 
+---
 
+## 🛠️ Tech Stack
 
-🏆 Achievements
-🏅
-Achievement
-🥇
-Top 5% Performer — AI/ML Internship (Skill India MSME)
-💻
-100+ DSA Problems Solved in Java
-🎓
-CGPA: 8.62 / 10
-📈 Activity Graph
-�
-￼ 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 
+---
 
-�
-"Consistency beats talent when talent is inconsistent." 
+## 🚀 Featured Projects
 
+### 💱 GlobalX Currency Converter
+✔ Real-time currency conversion using REST API  
+✔ Supports 150+ currencies  
+✔ Responsive UI with JavaScript async/await  
+✔ Deployed on GitHub Pages  
 
-�
-￼
+---
+
+### 🧠 DSA Forge – Java
+✔ 100+ DSA problems solved  
+✔ Custom implementations: Linked List, BST, HashMap  
+✔ Focus on optimization & problem solving  
+✔ Interview preparation structured repo  
+
+---
+
+### 🌱 AgroSmart IoT System
+✔ Arduino-based smart irrigation system  
+✔ Soil moisture sensor automation  
+✔ Reduced manual work by ~80%  
+✔ Real-world embedded system  
+
+---
+
+## 🏆 Achievements
+
+🥇 Top 5% Performer – AI/ML Internship (Skill India MSME)  
+💻 100+ DSA Problems Solved in Java  
+🎯 CGPA: 8.62 / 10  
+🚀 Consistent project builder & problem solver  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kshitijvarshikar&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijvarshikar&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: kshitijvarshikar.99@gmail.com  
+🔗 LinkedIn: linkedin.com/in/kshitij-varshikar-429177317  
+💻 GitHub: github.com/kshitijvarshikar  
+
+---
+
+## ⚡ Developer Mindset
+
+> “First make it work, then make it better, then make it scalable.”
