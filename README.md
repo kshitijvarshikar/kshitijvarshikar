@@ -57,10 +57,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kshitijvarshikar&show_icons=true&theme=radical&cache_seconds=1800)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kshitijvarshikar&show_icons=true&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijvarshikar&layout=compact&theme=radical&cache_seconds=1800)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijvarshikar&layout=compact&theme=tokyonight" />
 ---
 
 ## 🏆 Achievements
