@@ -1,70 +1,69 @@
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,100:2c5364&height=220&section=header&text=Kshitij%20Varshikar&fontSize=45&fontColor=ffffff&animation=fadeIn)
-
-![Profile Views](https://komarev.com/ghpvc/?username=kshitijvarshikar&color=blue)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:0b1220,100:111827&height=150&section=header&text=Kshitij%20Varshikar&fontSize=36&fontColor=ffffff&fontAlignY=55)
 
 ---
 
-# 👋 Hi, I'm Kshitij Varshikar
-
-🚀 Java Backend Developer | 🌐 Full Stack Engineer | 🧠 DSA Problem Solver  
-
----
-
-## ⚡ About Me
+# 👋 About Me
 
 🎓 B.Tech Artificial Intelligence (CGPA: 8.62)  
-💻 Strong in Java Backend Development  
-🧠 Data Structures & Algorithms enthusiast  
-🌐 Full Stack Web Developer  
-☁️ Learning Cloud & System Design  
-🔥 Focused on real-world scalable systems  
+💻 Java Backend Developer & Full Stack Engineer  
+🧠 Strong foundation in Data Structures & Algorithms  
+🌐 Focused on building scalable real-world applications  
+☁️ Exploring Cloud & System Design fundamentals  
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)
+### Languages
+Java | Python | JavaScript | SQL  
 
----
+### Backend
+Core Java | REST APIs | JDBC | OOP | Collections Framework  
 
-## 🚀 Featured Projects
+### Frontend
+HTML | CSS | JavaScript | DOM | Fetch API  
 
-### 💱 GlobalX Currency Converter
-- Real-time currency conversion using REST API  
-- 150+ currencies supported  
-- Responsive UI with JavaScript async handling  
+### Database
+MySQL  
 
----
-
-### 🧠 DSA Forge – Java
-- 100+ DSA problems solved  
-- Linked List, Trees, Graphs, DP  
-- Strong problem-solving focus  
+### Tools
+Git | GitHub | VS Code | Linux CLI  
 
 ---
 
-### 🌱 AgroSmart IoT System
-- Smart irrigation using Arduino sensors  
-- Automated pump control  
-- Reduced manual effort by ~80%  
+# 🚀 Featured Projects
+
+## 💱 GlobalX Currency Converter
+Real-time currency conversion platform using REST API  
+Supports 150+ currencies with fast and responsive UI  
+Built using JavaScript async/await architecture  
 
 ---
 
-## 🏆 Achievements
+## 🧠 DSA Forge – Java
+100+ curated DSA problems solved  
+Custom implementations: Linked List, BST, HashMap  
+Focused on optimization and interview preparation  
 
-🥇 Top 5% Performer – AI/ML Internship  
-💻 100+ DSA Problems Solved  
+---
+
+## 🌱 AgroSmart IoT System
+Smart irrigation system using Arduino sensors  
+Automated water control based on soil moisture  
+Reduced manual irrigation effort by ~80%  
+
+---
+
+# 🏆 Achievements
+
+🥇 Top 5% Performer – AI/ML Internship (Skill India MSME)  
+💻 100+ Data Structures & Algorithms problems solved  
 🎯 CGPA: 8.62 / 10  
-🚀 Consistent developer growth  
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 📧 Email: kshitijvarshikar.99@gmail.com  
 🔗 LinkedIn: linkedin.com/in/kshitij-varshikar-429177317  
@@ -72,6 +71,6 @@
 
 ---
 
-## ⚡ Developer Mindset
+# ⚡ Philosophy
 
-> “Build systems, not just projects.”
+> “Simple code. Strong logic. Real impact.”
