@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:1e293b)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:1e293b&text=Kshitij%20Varshikar&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn)
 
 # 👋 Kshitij Varshikar
 
