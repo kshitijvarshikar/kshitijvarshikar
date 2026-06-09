@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:1e293b&fontColor=ffffff)
+![header](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GitHub-Profile-Banners/main/assets/gradient-night.gif)
 
 # 👋 Kshitij Varshikar
 
