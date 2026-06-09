@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:1e293b&text=Kshitij%20Varshikar&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn)
+![header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=ffffff&center=true&vCenter=true&width=1000&height=70&background=0F172A&lines=Software+Engineer;Java+Backend+Developer;DSA+Problem+Solver;AI+%26+Cloud+Enthusiast)
 
 # 👋 Kshitij Varshikar
 
