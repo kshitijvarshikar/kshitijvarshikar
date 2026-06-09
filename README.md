@@ -1,6 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=180&section=header&desc=Java%20%7C%20Backend%20%7C%20DSA%20%7C%20AI%20Developer&descAlignY=75&descAlign=50)
-
+![header](https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql,git,github,linux)
 ---
 
 # 👋 Kshitij Varshikar
