@@ -1,5 +1,5 @@
 
-![header](https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&fit=crop&w=1500&q=80)
+![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:1e293b&animation=fadeIn)
 
 # 👋 Kshitij Varshikar
 
